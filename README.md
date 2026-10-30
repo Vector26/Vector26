@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi, I'm Hritik Rai · Vector26
-
-**Software engineer — distributed systems, AI agents, platform security · homelab builder**
-
-I ship backends and automation at scale (metadata platforms, agent workflows, migrations), run a Linux homelab with local LLMs and n8n, and break things on purpose in HTB-style labs.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/readme/header-dark.svg">
+  <img src="docs/readme/header-light.svg" width="100%" alt="Hritik Rai — Vector26, homelab builder and full-stack engineer">
+</picture>
 
 [![Portfolio](https://img.shields.io/badge/site-vector26.github.io-0ea5e9?style=for-the-badge)](https://vector26.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hritik--rai-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-rai)
 [![Substack](https://img.shields.io/badge/Substack-prometheus-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://vector2604.substack.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-@thehritikrai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thehritikrai/)
 
-<img src="https://komarev.com/ghpvc/?username=vector26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/readme/divider-dark.svg">
+  <img src="docs/readme/divider-light.svg" width="100%" alt="">
+</picture>
 
 </div>
-
----
 
 ## Featured work
 
@@ -27,6 +27,7 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 | [**DUM-E**](https://github.com/Vector26/DUM-E) | Tool-restricted homelab assistant: read-only probes, knowledge base, human-approved actions | Python · pi agent · sudo-isolated runtime |
 | [**system-monitor**](https://github.com/Vector26/system-monitor) | **PlainTop** live dashboard + **sys-check** snapshots — Linux health in plain English | Python · NVIDIA · systemd |
 | [**research-digest**](https://github.com/Vector26/research-digest) | RSS / arXiv / HN → dedupe, local LLM scoring, ranked digest via n8n + Postgres | Node · Shell · Pi agent · n8n |
+| [**Telemon**](https://github.com/Vector26/telemon) | Plugin checks, Telegram alerts, API-only Docker notifier | Python · FastAPI · Docker |
 
 <details>
 <summary><strong>More open source (earlier & community)</strong></summary>
@@ -42,7 +43,11 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 
 </details>
 
----
+## Highlights
+
+- 🏗️ **Full-stack & platform** — Spring Boot, React, Android, OpenAPI-first APIs
+- 🤖 **Homelab automation** — local LLMs, n8n, safety-gated agents (DUM-E)
+- 📡 **Ops tooling** — PlainTop/sys-check, Telemon, research pipelines
 
 ## What I work with
 
@@ -63,16 +68,12 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" alt="Linux" />
 </p>
 
----
-
 ## GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vector26&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vector26&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
-
----
 
 ## Connect
 
@@ -89,3 +90,7 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[Vector26](https://github.com/Vector26) · MIT · Profile README

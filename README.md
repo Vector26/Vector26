@@ -23,6 +23,7 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 
 | Project | What it is | Stack |
 |--------|------------|--------|
+| [**Virtual Self Memory**](https://github.com/Vector26/virtual-self-memory) | Local-first temporal memory and OLAP-style analytics with provenance-preserving ingestion | Python · PostgreSQL · pgvector · FastAPI · Docker |
 | [**LifePath**](https://github.com/Vector26/LifePath) | Gamified productivity: quests, habits, streaks, city/garden progress views | Spring Boot · PostgreSQL · React · Android · OpenAPI |
 | [**DUM-E**](https://github.com/Vector26/DUM-E) | Tool-restricted homelab assistant: read-only probes, knowledge base, human-approved actions | Python · pi agent · sudo-isolated runtime |
 | [**system-monitor**](https://github.com/Vector26/system-monitor) | **PlainTop** live dashboard + **sys-check** snapshots — Linux health in plain English | Python · NVIDIA · systemd |
@@ -46,6 +47,7 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 ## Highlights
 
 - 🏗️ **Full-stack & platform** — Spring Boot, React, Android, OpenAPI-first APIs
+- 🧠 **Local memory & analytics** — temporal data, provenance, OLAP-style queries, privacy-first AI
 - 🤖 **Homelab automation** — local LLMs, n8n, safety-gated agents (DUM-E)
 - 📡 **Ops tooling** — PlainTop/sys-check, Telemon, research pipelines
 
@@ -53,7 +55,7 @@ Repos I’m most proud of right now — maintained, documented, and meant for ot
 
 **Backend:** Java (Spring Boot), Python, Node/Express, Django  
 **Frontend:** React, TypeScript, Astro, Android (Kotlin)  
-**Ops & data:** Docker, PostgreSQL, n8n, local LLMs (Ollama / llama.cpp), Linux homelab  
+**Ops & data:** Docker, PostgreSQL, pgvector, n8n, local LLMs (Ollama / llama.cpp), Linux homelab  
 **Security:** Offensive labs (HTB/THM), tooling, writeups — see [GoodReads](https://github.com/Vector26/GoodReads) and writeup repos
 
 <p align="left">

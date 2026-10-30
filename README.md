@@ -1,32 +1,90 @@
-<h1 align="center">Hi 👋, I'm Hritik Rai</h1>
-<h3 align="center">I am a freshie who has been doing development since high school. I am an elastic developer and a quick learner of new tech stacks. I also love Hack-the-box and Try-hack-me. I am very proficient in responsive front-end development.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vector26&label=Profile%20views&color=0e75b6&style=flat" alt="vector26" /> </p>
-👨‍💻 All of my projects are available at https://vector26.github.io/
+<div align="center">
 
-📝 I regularly write articles on https://hritik-rai.medium.com/
+# Hi, I'm Hritik Rai · Vector26
 
-💬 Ask me about MERN, Django, Android, Pentesting, Java Spring Boot, NestJS, System Design Core Concepts
+**Full-stack engineer · homelab builder · security-minded developer**
 
-📫 How to reach me hritik.26.rai@gmail.com
+I ship products end to end (API, web, mobile), automate research and ops on my own stack, and still break things on purpose in HTB-style labs.
 
-📄 Know about my experiences https://drive.google.com/file/d/18MKyDDzMHOC7RNTN8cADFJipu88LPIxR/view?usp=sharing
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<!-- Blogs posts -->
+[![Portfolio](https://img.shields.io/badge/site-vector26.github.io-0ea5e9?style=for-the-badge)](https://vector26.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hritik--rai-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-rai)
+[![Medium](https://img.shields.io/badge/Medium-@hritik--rai-12100e?style=for-the-badge&logo=medium&logoColor=white)](https://hritik-rai.medium.com/)
+
+<img src="https://komarev.com/ghpvc/?username=vector26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## Featured work
+
+Repos I’m most proud of right now — maintained, documented, and meant for others to clone and run.
+
+| Project | What it is | Stack |
+|--------|------------|--------|
+| [**LifePath**](https://github.com/Vector26/LifePath) | Gamified productivity: quests, habits, streaks, city/garden progress views | Spring Boot · PostgreSQL · React · Android · OpenAPI |
+| [**DUM-E**](https://github.com/Vector26/DUM-E) | Tool-restricted homelab assistant: read-only probes, knowledge base, human-approved actions | Python · pi agent · sudo-isolated runtime |
+| [**system-monitor**](https://github.com/Vector26/system-monitor) | **PlainTop** live dashboard + **sys-check** snapshots — Linux health in plain English | Python · NVIDIA · systemd |
+| [**research-digest**](https://github.com/Vector26/research-digest) | RSS / arXiv / HN → dedupe, local LLM scoring, ranked digest via n8n + Postgres | Node · Shell · Pi agent · n8n |
+
+<details>
+<summary><strong>More open source (earlier & community)</strong></summary>
+
+| Project | Notes |
+|--------|--------|
+| [**create-express-mvt**](https://github.com/Vector26/create-express-mvt) | npm scaffold for Express in Model–View–Routes layout |
+| [**GoodReads**](https://github.com/Vector26/GoodReads) | Curated cyber-security learning links |
+| [**enumerator**](https://github.com/Vector26/enumerator) | Mass enumeration helper |
+| [**Bakery-Manager**](https://github.com/Vector26/Bakery-Manager) | Bakery portal API (admin + customer apps) |
+| [**Vector26.github.io**](https://github.com/Vector26/Vector26.github.io) | Portfolio site source |
+| [**Machine-CTF-Writeups**](https://github.com/Vector26/Machine-CTF-Writeups) | CTF & lab writeups |
+
+</details>
+
+---
+
+## What I work with
+
+**Backend:** Java (Spring Boot), Python, Node/Express, Django  
+**Frontend:** React, TypeScript, Android (Kotlin)  
+**Ops & data:** Docker, PostgreSQL, n8n, local LLMs (Ollama / llama.cpp), Linux homelab  
+**Security:** Offensive labs (HTB/THM), tooling, writeups — see [GoodReads](https://github.com/Vector26/GoodReads) and writeup repos
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" alt="Android" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" alt="Linux" />
+</p>
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vector26&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vector26&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+---
+
+## Connect
+
+- **Portfolio:** [vector26.github.io](https://vector26.github.io/)
+- **Blog:** [hritik-rai.medium.com](https://hritik-rai.medium.com/)
+- **Resume:** [Google Drive (PDF)](https://drive.google.com/file/d/18MKyDDzMHOC7RNTN8cADFJipu88LPIxR/view?usp=sharing)
+- **Email:** [hritik.26.rai@gmail.com](mailto:hritik.26.rai@gmail.com)
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/hritik-rai" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-hritik--rai-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/PhilosphicDev" target="_blank"><img src="https://img.shields.io/badge/X-@PhilosphicDev-1da1f2?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@HritikRai-ol1xr" target="_blank"><img src="https://img.shields.io/badge/YouTube-@HritikRai--ol1xr-ff0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hritik-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritik-rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hritik-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hritik-rai" height="30" width="40" /></a>
-<a href="https://medium.com/@hritik-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hritik-rai" height="30" width="40" /></a>
-<a href="https://twitter.com/PhilosphicDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@PhilosphicDev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@HritikRai-ol1xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hritik Rai YouTube" height="30" width="40" /></a>
-<a href="https://www.instagram.com/techdepthdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techdepthdeveloper" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Icons for languages and tools -->
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vector26&show_icons=true&locale=en&layout=compact" alt="vector26" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vector26&show_icons=true&locale=en" alt="vector26" /></p>
